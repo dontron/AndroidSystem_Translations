@@ -759,8 +759,8 @@
     <string name="warning_min_version_too_low">This module was created for Xposed version %1$s, but
         due to incompatible changes in version %2$s, it has been disabled.
     </string>
-    <string name="app_process" translatable="false">app_process</string>
-    <string name="xposedbridge" translatable="false">XposedBridge.jar</string>
+    <string name="app_process">app_process</string>
+    <string name="xposedbridge">XposedBridge.jar</string>
     <string name="translator"></string>
     <string name="about_app">An
         <a href="http://forum.xda-developers.com/showthread.php?t=1574401">Xposed</a>

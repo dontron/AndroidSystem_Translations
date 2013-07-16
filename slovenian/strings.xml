@@ -670,8 +670,8 @@
     <string name="not_tested_but_compatible">Xposed has not been tested with Android SDK version %d, but it seems to be compatible. You can try installing it if you feel adventurous.</string>
     <string name="no_min_version_specified">This module does not specify the Xposed version it needs.</string>
     <string name="warning_min_version_too_low">This module was created for Xposed version %1$s, but due to incompatible changes in version %2$s, it has been disabled.</string>
-    <string name="app_process" translatable="false">app_process</string>
-    <string name="xposedbridge" translatable="false">XposedBridge.jar</string>
+    <string name="app_process">app_process</string>
+    <string name="xposedbridge">XposedBridge.jar</string>
     <string name="translator"></string>
     <string name="about_app">An <a href="http://forum.xda-developers.com/showthread.php?t=1574401">Xposed</a> module by
         <a href="http://forum.xda-developers.com/member.php?u=4419114">rovo89</a> and <a href="http://forum.xda-developers.com/member.php?u=4322181">Tungstwenty</a>.
