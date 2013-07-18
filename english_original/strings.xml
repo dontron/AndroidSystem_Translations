@@ -1,42 +1,38 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string name="app_name">Android System PRO</string>
-    <string name="menu_settings">Settings</string>
+    <string name="menu_settings">Einstellungen</string>
     <string name="title_activity_main">Android System PRO</string>
-    <string name="drawer_open">Open navigation drawer</string>
-    <string name="drawer_close">Close navigation drawer</string>
-    <string name="settings">Settings</string>
+    <string name="drawer_open">Öffne die Navigation</string>
+    <string name="drawer_close">Schließe die Navigation</string>
+    <string name="settings">Einstellungen</string>
 
-    <string name="application_error">Application error:</string>
-    <string name="check_license">Check License</string>
-    <string name="checking_license">Checking License</string>
-    <string name="allow">Allow</string>
-    <string name="dont_allow">Dont allow</string>
-    <string name="unlicensed_dialog_title">Not licensed</string>
+    <string name="application_error">Anwendungsfehler:</string>
+    <string name="check_license">Überprüfe Lizenz</string>
+    <string name="checking_license">Lizenz Überprüft</string>
+    <string name="allow">Erlaubt</string>
+    <string name="dont_allow">Abgewiesen</string>
+    <string name="unlicensed_dialog_title">Nicht Lizensiert</string>
 
-    <string name="free">Free version</string>
-    <string name="pro">Pro version</string>
+    <string name="free">Kostenlose Version</string>
+    <string name="pro">Pro Version</string>
 
-    <string name="pro_warn_title">PRO Feature</string>
-    <string name="pro_warn_msg">This feature is available only in the PRO version of Android
-        System
+    <string name="pro_warn_title">PRO Eigenschaften</string>
+    <string name="pro_warn_msg">Das ist nut in der Pro Version von Android System möglich
     </string>
     <string name="pro_go_to_market">Play Store</string>
 
-    <string name="welcome">Welcome to Android System Pro</string>
-    <string name="welcome_1">Please, take a minute to read what\'s inside this application. Keep in
-        mind that some tools will not work without root permission and busybox\n\nBefore leaving a
-        bad review on Play Store, if you face off any issue, problem or error contact us
-        (gido.solution@gmail.com) and describe your problem!
+    <string name="welcome">Willkommen zu Android System Pro</string>
+    <string name="welcome_1">Bitte nimm dir Zeiz zu erfahren was die Anwendung kann. Beachte das manche Anwendungen nicht ohne Root und busybox\n\n funktionieren bevor sie eine schlechte Bewertung im Play Store geben, wenn sie eine Frage haben, problem oder Fehler kontaktiere uns 
+unter (gido.solution@gmail.com) und beschreibe dein Problem!
     </string>
-    <string name="welcome_2">System Tools:</string>
-    <string name="welcome_3">- MIUI File Explorer with ability to enable root access</string>
-    <string name="welcome_5">- LogCat allow you to explore system logs</string>
-    <string name="welcome_31">- Anonymous Browser allow you to surfing the web with the transparent anon</string>
-    <string name="welcome_28">App preferences:</string>
-    <string name="welcome_29">- Framework installer allow you to install the XPosed framework
-        required for customizing and using the app preferences module. Require root access and
-        busybox
+    <string name="welcome_2">System Werkzeuge:</string>
+    <string name="welcome_3">- MIUI Datei Explorer mit Möglichkeit Root zu aktivieren</string>
+    <string name="welcome_5">- LogCat ermöglicht eine Log Datei vom System zu erstellen</string>
+    <string name="welcome_31">- Anonymer Browser ermöglicht anonymes Surfen</string>
+    <string name="welcome_28">App Einstellungen:</string>
+    <string name="welcome_29">- Framework installer erlaubt die Installation von XPosed framework
+        erforderlich für die Anpassung und Einstellungen vom Modul. Setzt Root und Busybox voraus
     </string>
     <string name="welcome_30">- Application custom preferences allow you to customize app
         preferences using Xposed app settings that allow you to customize apps DPI, Layout, font
